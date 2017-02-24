@@ -4,3 +4,6 @@
 [submodule "FriendStagram-iOS"]
 	path = FriendStagram-iOS
 	url = https://github.com/BrandonDanis/FriendStagram-iOS
+[submodule "FriendStagram-Backend"]
+	path = FriendStagram-Backend
+	url = https://github.com/BrandonDanis/FriendStagram-Backend
