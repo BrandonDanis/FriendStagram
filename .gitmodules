@@ -1,3 +1,6 @@
 [submodule "FriendStagram-Android"]
 	path = FriendStagram-Android
 	url = git@github.com:silverAndroid/FriendStagram-Android.git
+[submodule "FriendStagram-iOS"]
+	path = FriendStagram-iOS
+	url = https://github.com/BrandonDanis/FriendStagram-iOS
